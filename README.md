@@ -1,7 +1,4 @@
 # diff-practice
 git講座練習用
 
-featureブランチで編集をしました。
-staging|2st
-
-rebase pratctice用で編集します。
+github上でREADMEを編集
